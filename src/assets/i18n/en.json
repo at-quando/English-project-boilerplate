@@ -1,0 +1,9 @@
+{
+  "nav": {
+    "toeic": "toeic",
+    "ielts": "ielts",
+    "toefl": "toefl",
+    "leveltest": "level test",
+    "blog": "blog"
+  }
+}
